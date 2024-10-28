@@ -202,10 +202,6 @@ nav ul li:hover .dropdown-content {
     margin: 20px;
 }
 
-.section3-list:hover{
-    text-decoration: line-through;
-}
-
 .section-grid2{
     display: flex;
     justify-content: center;
